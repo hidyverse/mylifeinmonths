@@ -2,7 +2,7 @@
 output: github_document
 ---
 
-My life in months, inspired by [Isabella Benabaye](https://isabella-b.com/blog/my-life-in-months/)!
+My life in months, inspired by [Sharla Gelfand](https://twitter.com/sharlagelfand/status/1282783913002373121) and [Jill MacKay](https://twitter.com/jilly_mackay/status/1283064505229090819)!
 
 ```{r echo = FALSE}
 knitr::include_graphics("life_in_months.png")
